@@ -1,0 +1,22 @@
+
+------El usuario: EdisonRivera------
+> Edad: 19
+> CI: 145
+> Telefono: 589
+Sus trasancciones son: 
+ > Deposito de: 85.63
+ > Retiro de: 42.0
+------El usuario: es------
+> Edad: 2
+> CI: 3
+> Telefono: 4
+Sus trasancciones son: 
+ > Deposito de: 63.23
+ > Retiro de: 0.0
+------El usuario: rt------
+> Edad: 5
+> CI: 8
+> Telefono: 9
+Sus trasancciones son: 
+ > Deposito de: 0.0
+ > Retiro de: 1.1
